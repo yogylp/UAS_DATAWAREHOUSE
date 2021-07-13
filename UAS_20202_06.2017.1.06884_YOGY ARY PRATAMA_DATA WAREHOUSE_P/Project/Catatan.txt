@@ -1,0 +1,48 @@
+Insights obtained from the dataset are as follows
+
+Mean ratings of an experience in the supermaket 
+
+1. Mean unit price of an article in the supermaket 
+
+2. Mean cost of goods sold obtained from selling the articles    
+
+3. Mean gross margin percentage of articles sold  
+
+4. So mean revenue in dollars of the supermarket   
+
+5. Net mean income per day of the supermarket  
+
+gross profit margin = revenue - cost of goods sold / revenue    
+
+cost of goods sold 
+
+gross margin perccentage
+
+gross income
+
+tax
+
+
+
+
+
+To check number of rows and columns
+
+Well here date is object , let's convert it into Datetime
+
+Statistical Summary
+
+Lets's first handle Unit Price column by using mean value
+
+For Quantity we will use Mode value
+
+
+For rest remaining values we will simply drop them
+
+Which Branch is the most busy?
+
+count
+
+Which Payment Method is most used?
+
+Payment Method
